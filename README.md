@@ -11,7 +11,7 @@
 ## 🇺🇸 English Version
 
 ### 🔭 Project Overview
-This repository contains the source code and datasets used for the statistical analysis presented in the Physics Engineering thesis: **"Analysis of Dark Energy Models using Fast Radio Bursts and Cosmic Chronometers"**.
+This repository contains the source code and datasets used for the statistical analysis presented in the Physics Engineering thesis: **"Constraining Cosmological Models using Fast Radio Bursts."**.
 
 The project implements a Bayesian inference pipeline (MCMC) to constrain cosmological parameters and compare the performance of three theoretical models:
 * **$\Lambda$CDM** (Standard Model).
@@ -68,7 +68,7 @@ The project implements a Bayesian inference pipeline (MCMC) to constrain cosmolo
 ## 🇲🇽 Versión en Español
 
 ### 🔭 Descripción del Proyecto
-Este repositorio contiene el código fuente y los conjuntos de datos utilizados para el análisis estadístico presentado en la tesis de Ingeniería Física: **"Análisis de Modelos de Energía Oscura utilizando Ráfagas Rápidas de Radio y Cronómetros Cósmicos"**.
+Este repositorio contiene el código fuente y los conjuntos de datos utilizados para el análisis estadístico presentado en la tesis de Ingeniería Física: **"Constricción de modelos cosmológicos usando ráfagas rápidas de radio"**.
 
 El proyecto implementa un flujo de trabajo de inferencia bayesiana (MCMC) para restringir parámetros cosmológicos y comparar el desempeño de tres modelos teóricos:
 * **$\Lambda$CDM** (Modelo Estándar).
